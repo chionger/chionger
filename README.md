@@ -2,12 +2,8 @@
 
 Welcome to my GitHub profile! I'm a PMP certified Project Manager with a passion about turning ideas into working prototypes — especially in the areas of :
 
-**Accelerated learning through simulation**,
-**AI-Assisted Learning**,
-**AI-powered tools to increase process efficiency**
-
-, and 
-**learning-driven development**.
+**Use of technology and AI-powered tools to increase process efficiency**
+**Use of simulation with AI agents for accelerated learning in human**,
 
 ---
 
