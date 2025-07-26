@@ -1,10 +1,10 @@
 # 👋 Hi, I'm chionger
 
-Welcome to my GitHub profile! I'm a PMP certified Project Manager with a passion about turning ideas into working prototypes — especially in the areas of : 
+Welcome to my GitHub profile! I'm a PMP certified Project Manager with a passion about turning ideas into working prototypes — especially in the areas of :
 
-**
-**AI-Assisted Learning**, 
-**AI-powered tools**
+**Accelerated learning through simulation**,
+**AI-Assisted Learning**,
+**AI-powered tools to increase process efficiency**
 
 , and 
 **learning-driven development**.
