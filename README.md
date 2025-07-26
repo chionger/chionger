@@ -1,9 +1,6 @@
 # 👋 Hi, I'm chionger
 
-Welcome to my GitHub profile! I'm a PMP certified Project Manager with a passion about turning ideas into working prototypes — especially in the areas of :
-
-**Use of technology and AI-powered tools to increase process efficiency**
-**Use of simulation with AI agents for accelerated learning in human**,
+Welcome to my GitHub profile! I'm a PMP certified Project Manager with a passion about turning ideas into working prototypes — especially in the **use of technology and AI-powered tools to increase process efficiency**, and **use of simulation with AI agents for accelerated learning in human**.
 
 ---
 
@@ -59,6 +56,6 @@ Each repo tells a story:
 
 ---
 
-> 🧠 "A prototype a week keeps fear away."
+> 🧠 "Enjoy the process of continuously Discovering, Improving, and Actualising the real me."
 
 Feel free to fork, follow, or collaborate!
